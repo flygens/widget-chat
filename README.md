@@ -45,4 +45,4 @@ Simply add the following code to your HTML:
 
 ## License
 
-See the [LICENSE](LICENSE) file.
+[MIT](./LICENSE)
